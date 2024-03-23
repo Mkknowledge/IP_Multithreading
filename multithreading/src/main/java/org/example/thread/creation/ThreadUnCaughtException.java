@@ -1,4 +1,4 @@
-package org.example;
+package org.example.thread.creation;
 
 public class ThreadUnCaughtException {
     public static void main(String[] args) throws InterruptedException {
