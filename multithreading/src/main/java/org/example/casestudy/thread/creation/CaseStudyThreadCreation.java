@@ -7,7 +7,6 @@ import java.util.Random;
 public class CaseStudyThreadCreation {
 
     /*
-    * let's go through a case study where we can apply to new technique and see the benefits of the new approach.
     * Let's say I want to design a secure vault where I'm planning to store my money and I want to see how long it would take the hackers to break into the volt.
     * By guessing my code, we will have a few hacker threads trying to brute force my code concurrently.
     * In addition to that, we're going to have a police thread. That thread is going to come to our rescue by counting down 10 seconds.
