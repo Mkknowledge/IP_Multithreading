@@ -1,4 +1,4 @@
-package thread.termination;
+package org.example.thread.termination;
 
 public class ThreadInterrupt {
 

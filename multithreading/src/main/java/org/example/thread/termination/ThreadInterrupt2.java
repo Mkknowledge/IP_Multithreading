@@ -1,4 +1,4 @@
-package thread.termination;
+package org.example.thread.termination;
 
 import java.math.BigDecimal;
 import java.math.BigInteger;
